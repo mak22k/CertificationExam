@@ -8,4 +8,4 @@ The program is designed to adjust the difficulty of questions based on the user'
     If the user gets a question incorrect, the next question is one difficulty class easier       
       (If the user answered a question from difficulty class 1 (lowest) incorrectly, the next question is also level 1.)       
         
-To run the program, run CertificationExam.jar, located in JavaFinal/CertificationExam/dist.
+To run the program, run CertificationExam.jar, located in Java Final/CertificationExam/dist.
